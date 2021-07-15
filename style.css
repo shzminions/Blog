@@ -225,7 +225,7 @@ section .color:nth-child(3) {
     font-weight: 600;
     cursor: pointer;
 }
-.form .inputBox input[type="butten"] {
+.form .inputBox input[type="button"] {
     background: #fff;
     color: #666;
     max-width: 120px;
